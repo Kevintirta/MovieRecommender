@@ -15,6 +15,7 @@
 		4F0B0D47244C51C600D0A9D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F0B0D45244C51C600D0A9D4 /* LaunchScreen.storyboard */; };
 		4F0B0D52244C51C600D0A9D4 /* MovieAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0B0D51244C51C600D0A9D4 /* MovieAppTests.swift */; };
 		4F0B0D5D244C51C600D0A9D4 /* MovieAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0B0D5C244C51C600D0A9D4 /* MovieAppUITests.swift */; };
+		4F0B0D6B244C52B800D0A9D4 /* GenreButtonScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0B0D6A244C52B700D0A9D4 /* GenreButtonScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4F0B0D58244C51C600D0A9D4 /* MovieAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MovieAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F0B0D5C244C51C600D0A9D4 /* MovieAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieAppUITests.swift; sourceTree = "<group>"; };
 		4F0B0D5E244C51C600D0A9D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F0B0D6A244C52B700D0A9D4 /* GenreButtonScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenreButtonScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				4F0B0D3A244C51BF00D0A9D4 /* AppDelegate.swift */,
+				4F0B0D6A244C52B700D0A9D4 /* GenreButtonScreen.swift */,
 				4F0B0D3C244C51BF00D0A9D4 /* SceneDelegate.swift */,
 				4F0B0D3E244C51BF00D0A9D4 /* ContentView.swift */,
 				4F0B0D40244C51C600D0A9D4 /* Assets.xcassets */,
@@ -270,6 +273,7 @@
 				4F0B0D3B244C51BF00D0A9D4 /* AppDelegate.swift in Sources */,
 				4F0B0D3D244C51BF00D0A9D4 /* SceneDelegate.swift in Sources */,
 				4F0B0D3F244C51BF00D0A9D4 /* ContentView.swift in Sources */,
+				4F0B0D6B244C52B800D0A9D4 /* GenreButtonScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
